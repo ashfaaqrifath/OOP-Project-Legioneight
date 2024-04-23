@@ -1,2 +1,3 @@
 # OOP-Project-Legioneight
-OOP Project Y1 S2 SLIIT
+OOP Project Year 1 Semester 2 SLIIT
+ --Group Members
