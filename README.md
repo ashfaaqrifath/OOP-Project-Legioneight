@@ -1,5 +1,5 @@
 # OOP-Project-Legioneight
-<h3>OOP Project Year 1 Semester 2 SLIIT</h3>
+<h3>OOP Project HD IT Year 1 Semester 2 SLIIT City Uni</h3>
 <hr>
 Group Members
 
