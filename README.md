@@ -5,7 +5,7 @@ Group Members
 
 - [A. A. Rifath - SA23089754](https://www.github.com/ashfaaqrifath)
 - [H. G. S. Sanchitha - SA23428324](https://github.com/Sanduna1)
-- [M. I. A. Ishaq - SA23523500](https://www.github.com/ashfaaqrifath)
+- [M. I. A. Ishaq - SA23523500](https://github.com/IshaqIfthikar)
 - [H. K. Dilanjan - SA23439450](https://github.com/kaveeshaDilanjan)
 - [S. Shomiya - SA23439696](https://github.com/Shomiyagithub)
 - [K. Nuha - SA23428492](https://github.com/Nuhakuthupudeen)
