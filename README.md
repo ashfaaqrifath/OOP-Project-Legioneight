@@ -10,4 +10,4 @@ Group Members
 - [S. Shomiya - SA23439696](https://github.com/Shomiyagithub)
 - [K. Nuha - SA23428492](https://github.com/Nuhakuthupudeen)
 - [E. T. Rusiru - SA23438538](https://github.com/RashenTharaka)
-- [P. M. C. R. Bandara - SA23514522](https://github.com/ChanukaRavikantha)
+- [P. M. C. R. Bandara - SA23514522](https://github.com/cravikantha)
